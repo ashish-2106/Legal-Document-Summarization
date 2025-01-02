@@ -1,1 +1,1 @@
-# Legal-Document--summarization
+# Legal-Document-summarization
